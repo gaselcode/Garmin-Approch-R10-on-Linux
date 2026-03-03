@@ -1,4 +1,5 @@
 Use your Garmin Approach R10 on a Linux Computer like a Raspberry Pi 
+
 pip install bleak PyQt6
 
 # --- KONFIGURATION ---
