@@ -1,0 +1,5 @@
+Use your Garmin Approach R10 on a Linux Computer like a Raspberry Pi 
+pip install bleak PyQt6
+
+# --- KONFIGURATION ---
+R10_ADDRESS = "E4:7B:DD:3F:78:D7" # change to your Devices Address
