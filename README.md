@@ -4,3 +4,5 @@ pip install bleak PyQt6
 
 # --- KONFIGURATION ---
 R10_ADDRESS = "E4:7B:DD:3F:78:D7" # change to your Devices Address
+
+THXs mholow for reverseengineering Bluetooth https://github.com/mholow/gsp-r10-adapter/
